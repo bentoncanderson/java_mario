@@ -5,9 +5,7 @@ import javax.swing.JPanel;
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
-import java.io.IOException;
 import java.io.File;
-import javax.swing.JButton;
 import java.awt.Color;
 
 class View extends JPanel

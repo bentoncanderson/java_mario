@@ -1,10 +1,4 @@
 import java.awt.Graphics;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.util.ArrayList;
-import java.util.Iterator;
-
-import javax.imageio.ImageIO;
 public abstract class Sprite {
 	int x;
 	int y;

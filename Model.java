@@ -2,7 +2,6 @@
 //September 7, 2021
 //Assignment 2
 import java.util.ArrayList;
-import java.util.Iterator;
 class Model
 {
 	ArrayList<Sprite> sprites;
